@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Texts</string>
+    <string-array name="string_arr">
+        <item>I</item>
+        <item>am</item>
+        <item>super</item>
+        <item>cool</item>
+    </string-array>
+</resources>
